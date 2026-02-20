@@ -1,0 +1,20 @@
+item {
+  name: "ThumbsUp"
+  id: 1
+}
+
+item {
+  name: "ThumbsDown"
+  id: 2
+}
+
+item {
+  name: "Thankyou"
+  id: 3
+}
+
+item {
+  name: "LiveLong"
+  id: 4
+}
+
